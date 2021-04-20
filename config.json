@@ -1,0 +1,6 @@
+{
+  "prefix" : "c!",
+  "color": "BLUE",
+  "error": "RED",
+  "success": "GREEN"
+  }
